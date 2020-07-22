@@ -50,15 +50,16 @@ fun quadraticRootProduct(a: Double, b: Double, c: Double): Double {
  * Пример главной функции
  */
 fun main() {
+    println("Test")
 //    val x1x2 = quadraticRootProduct(1.0, 13.0, 42.0)
 //    println("Root product: $x1x2")
 //    val x = 7
 //    val result = sqr(x)
 //    println("$x * $x = $result")
-    val answer = quadraticEquationRoot(
-        1.0, -3.0, 2.0
-    )
-    println(answer)
+
+//    val answer = quadraticEquationRoot(
+//        1.0, -3.0, 2.0
+//    )
 }
 /**
  * Тривиальная
